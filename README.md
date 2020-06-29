@@ -1,6 +1,6 @@
 # EarthCode
 
-## Start
+### Start
 1. Install git
 2. Open terminal (OSX) or Command Prompt (Windows)
 3. type `git clone https://github.com/EarthCodeOrg/earthcode-curriculum.git`
