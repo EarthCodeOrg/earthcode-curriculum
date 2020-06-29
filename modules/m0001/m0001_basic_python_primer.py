@@ -144,7 +144,16 @@ print(first_3_letters)
 first_3_letters = a[0:3] # we are slicing from index 0 inclusive to 3 exclusive
 
 # Functions
-# Tuples, Set, Lists, Dictionaries
+# lambda
+
+# Tuple ()
+# Lists []
+# Set {}
+# Dictionaries {}
+
 # Loops
+# while 
+# for 
+# list comprehension
 
-
+# Classes / Objects
